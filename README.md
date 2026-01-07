@@ -1,57 +1,57 @@
 # statistics-portfolio
-# 📊 Statistics Foundations for Data Science
+# Statistics Foundations for Data Science
 
 **Author:** Ramatoulaye Diallo  
 **Program:** Computer Systems Technology / Data Analytics  
-**Goal:** Build a strong foundation in statistics for Data Science, Analytics, and AI.
+**Goal:** To Build a strong foundation in statistics for Data Science, Analytics, and Artificial Intelligence.
 
 ---
 
-## 📌 About This Project
+## About This Project
 
-This repository presents a structured summary of core statistical concepts studied in an *Introduction to Statistics* course.  
-It is designed as a **learning portfolio** to demonstrate my understanding of statistics and my ability to explain concepts clearly.
+This repository presents a structured overview of core statistical concepts studied in an *Introduction to Statistics* course.  
+It is designed as a **learning portfolio** that demonstrates both my understanding of statistical principles and my ability to explain them clearly and accurately.
 
 ---
 
-## 📘 Topics Covered
+## Topics Covered
 
-### 1️⃣ Probability
+### 1. Probability
 - Basic probability rules
 - Conditional probability
 - Independent vs dependent events
 
-### 2️⃣ Probability Distributions
+### 2️. Probability Distributions
 - Discrete vs continuous distributions
 - Expected value
 - Law of Large Numbers
 
-### 3️⃣ Normal Distribution
+### 3️. Normal Distribution
 - Mean and standard deviation
 - 68–95–99.7 rule
 - Skewness and kurtosis
 
-### 4️⃣ Central Limit Theorem
+### 4️. Central Limit Theorem
 - Sampling distributions
 - Why normality appears in large samples
 
-### 5️⃣ Poisson Distribution
+### 5️. Poisson Distribution
 - Modeling event counts
 - Lambda (λ)
 - Real-world examples
 
-### 6️⃣ Correlation
+### 6️. Correlation
 - Pearson correlation coefficient
 - Interpretation of r values
 - Correlation vs causation
 
-### 7️⃣ Hypothesis Testing
+### 7️. Hypothesis Testing
 - Null and alternative hypotheses
 - Significance level (α)
 - p-values
 - Type I and Type II errors
 
-### 8️⃣ Experimental Design
+### 8️. Experimental Design
 - Controlled trials
 - Randomization
 - Blinding and double-blind studies
@@ -59,36 +59,37 @@ It is designed as a **learning portfolio** to demonstrate my understanding of st
 
 ---
 
-## 📄 PDF Summary
+## PDF Summary
 
-📥 **Download my full statistics summary (PDF):**  
+**A consolidated PDF summary of the statistics concepts covered in this portfolio is available below:**  
 [Introduction to Statistics – Summary](Introduction_to_Statistics_Summary_Ramatoulaye_Diallo.pdf)
 
 ---
 
-## 🧠 What I Learned
+## Learning Outcomes
 
+Through this project, I developed the ability to:
 - How to interpret statistical results correctly
-- How to avoid common statistical mistakes
-- How statistics is applied in real Data Science jobs
-- How to communicate technical ideas clearly
+- Identify and avoid common statistical misconceptions
+- Understand how statistical methods are applied in real-world Data Science contexts
+- Communicate technical concepts in a clear and structured manner
 
 ---
 
-## 🔍 Why This Matters for Data Science
+## Relevance to Data Science
 
-Statistics is the foundation of:
+Statistics forms the foundation of:
 - A/B testing
-- Machine learning
-- Business decision-making
-- Data-driven product development
+- Machine learning models
+- Business and product decision-making
+- Data-driven strategy development
 
-This project shows my readiness to apply statistical thinking in real-world problems.
+This portfolio demonstrates my readiness to apply statistical reasoning to real-world analytical problems and to succeed in graduate-level Data Science coursework.
 
 ---
 
-## 📬 Contact
+## Contact
 
-- **LinkedIn:** https://www.linkedin.com/in/ramatoulaye-diallo-bah-3385a229a/
+- **LinkedIn:** https://www.linkedin.com/in/ramatoulayediallobah
 - **Email:** dialloramatoulayebah@gmail.com
 
